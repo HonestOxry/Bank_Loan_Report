@@ -14,6 +14,7 @@ This repository contains the analysis and visualization of bank loan data. The p
 - `bank_loan_data_queries.sql`: Contains the SQL queries used to analyze the bank loan data.
 - `Visualization_Bank_loan_data.twb`: Tableau workbook file containing the visualizations created from the bank loan data.
 - `Dashboards.pptx`: PowerPoint presentation with the dashboards created in Tableau.
+- `bg_img.jpg`: is taken from Image by rawpixel.com on Freepik.
 
 ## Getting Started
 
